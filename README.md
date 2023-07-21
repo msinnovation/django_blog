@@ -1,8 +1,6 @@
 Blog using Python and Django. 
 
-
-
-Blog using Python and Django To create a simple blog using Python and Django, follow these steps:
+To create a simple blog using Python and Django, follow these steps:
 
 Set up your development environment:
 
