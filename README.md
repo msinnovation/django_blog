@@ -1,2 +1,2 @@
-# django_blog
-Blog using Python and Django
+Setup for this django Project.
+
